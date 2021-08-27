@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Elliot
 
-https://img.shields.io/twitter/follow/ejntaylor?style=social
-https://img.shields.io/github/followers/ejntaylor?style=social
+![Twitter Follow](https://img.shields.io/twitter/follow/ejntaylor?style=social)
+![Github Follow](https://img.shields.io/github/followers/ejntaylor?style=social)
+
+
 
 👨‍💻 I'm a full-stack engineer currently working on Security at Pfizer
 
