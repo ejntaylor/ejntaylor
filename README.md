@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Elliot
+
+https://img.shields.io/twitter/follow/ejntaylor?style=social
+https://img.shields.io/github/followers/ejntaylor?style=social
+
+👨‍💻 I'm a full-stack engineer currently working on Security at Pfizer
 
 <!--
 **ejntaylor/ejntaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
