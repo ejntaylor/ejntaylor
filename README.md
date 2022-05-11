@@ -18,9 +18,8 @@
 
 💬 [Coderbud](https://coderbud.io) - Peer-to-peer pull request code reviews
 
-📈 [Tripppr](https://tripppr.com) - Journaling and wellness insights for the emerging psychedelic therapy industry
+📈 [sqft.capital](https://sqft.capital) - PropTech financing application built with Laravel, Inertia.JS, Vue.JS and TailWind
 
-📆 [Simplehours](https://simplehours.com) - A smart calendar for booking freelance work.
 
 
 ---
