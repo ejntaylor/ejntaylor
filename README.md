@@ -14,11 +14,11 @@
 
 ### Recent Projects
 
-🌱 [TAZAAR](https://tazaar-it.com) -  ClimateTech startup TAZAAR which offers unique digital product passports to electronic and electrical equipment manufacturers.
+🌱 [TAZAAR](https://tazaar-it.com) -  ClimateTech startup TAZAAR which offers unique digital product passports.
 
-💬 [Coderbud](https://coderbuds.com) - AI powered pull request code reviews and GitHub team analytics
+💬 [coderbuds.com](https://coderbuds.com) - AI powered GitHub team insights and code reviews.
 
-📈 [sqft.capital](https://sqft.capital) - PropTech financing application built with Laravel, Inertia.JS, Vue.JS and TailWind
+📈 [sqft.capital](https://sqft.capital) - PropTech financing startup.
 
 
 
