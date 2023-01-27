@@ -5,7 +5,8 @@
 
 
 
-👨‍💻 I'm a full-stack engineer and maker. I'm currently working to improve Security at Pfizer as well as building out my own products.
+👨‍💻 I'm a full-stack engineer, tech lead and cybersecurity specialist with a focus on SaaS products. Currently working to improve Security at Pfizer as well as building my own products.
+
 
 
 🔗 [Blog](https://ejntaylor.com) - I post about tech and product on my Blog
