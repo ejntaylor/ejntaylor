@@ -8,15 +8,15 @@
 👨‍💻 I'm a full-stack engineer and maker. I'm currently working to improve Security at Pfizer as well as building out my own products.
 
 
-🔗 [Raison](https://raison.co) - I ran an agency called Raison for about ten years
-
 🔗 [Blog](https://ejntaylor.com) - I post about tech and product on my Blog
 
 ---
 
 ### Recent Projects
 
-💬 [Coderbud](https://coderbud.io) - Peer-to-peer pull request code reviews
+🌱 [TAZAAR](https://tazaar-it.com) -  ClimateTech startup TAZAAR which offers unique digital product passports to electronic and electrical equipment manufacturers.
+
+💬 [Coderbud](https://coderbuds.com) - AI powered pull request code reviews and GitHub team analytics
 
 📈 [sqft.capital](https://sqft.capital) - PropTech financing application built with Laravel, Inertia.JS, Vue.JS and TailWind
 
