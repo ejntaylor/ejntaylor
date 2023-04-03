@@ -15,8 +15,6 @@
 
 ### Recent Projects
 
-🌱 [TAZAAR](https://tazaar-it.com) -  ClimateTech startup TAZAAR which offers unique digital product passports.
-
 💬 [coderbuds.com](https://coderbuds.com) - AI powered GitHub team insights and code reviews.
 
 📈 [sqft.capital](https://sqft.capital) - PropTech financing startup.
