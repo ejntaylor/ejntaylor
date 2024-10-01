@@ -5,9 +5,17 @@
 
 
 
-👨‍💻 I'm a full-stack engineer, tech lead and cybersecurity specialist with a focus on SaaS products. Currently working to improve Security at Pfizer as well as building my own products.
 
+👨‍💻 Tech Lead & Full-stack Software Engineer with expertise in:
 
+Laravel & VILT & TALL Stack (Vue.js, Inertia.js, Laravel, Tailwind CSS)
+Python
+GitOps, DevOps, DevSecOps
+Cybersecurity
+AWS
+SaaS Development
+
+🔒 Currently enhancing Security at Pfizer while also building my own products.
 
 🔗 [Blog](https://ejntaylor.com) - I post about tech and product on my Blog
 
@@ -20,31 +28,6 @@
 📈 [sqft.capital](https://sqft.capital) - PropTech financing startup.
 
 
-
----
-
-
-### My Preferred Stack
-🟢 Vue  
-
-🔵 Tailwind  
-
-🔴 Laravel  
-
-🟣 Inertia
-
-<!--
-**ejntaylor/ejntaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect!
+I'm always interested in collaborating on innovative projects or discussing the latest in tech and cybersecurity. Feel free to reach out!
 
