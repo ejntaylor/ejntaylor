@@ -30,3 +30,4 @@ I'm always interested in collaborating on innovative projects or discussing the 
 
 | 🌐 Blog | <https://ejntaylor.com> |
 | 🐦 X / Twitter | [@ejntaylor](https://twitter.com/ejntaylor) |
+
