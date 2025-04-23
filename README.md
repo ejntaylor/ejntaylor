@@ -14,15 +14,15 @@
 - **Focus areas**  Cybersecurity · SaaS Architecture
 
 
-### Recent Projects
+### 🚀 Recent Projects
 
-💊 Pfizer – Platform Engineering / Application Security SaaS** (day job)  
+Pfizer – Platform Engineering / Application Security SaaS** (day job)  
 
-💬 [BishBashDosh.com](https://bishbashdosh.com) - Personal Finance Advisor SaaS.
+[BishBashDosh.com](https://bishbashdosh.com) - Personal Finance Advisor SaaS.
 
-💬 [coderbuds.com](https://coderbuds.com) - AI powered GitHub team insights and code reviews.
+[coderbuds.com](https://coderbuds.com) - AI powered GitHub team insights and code reviews.
 
-📈 [sqft.capital](https://sqft.capital) - PropTech financing startup.
+[sqft.capital](https://sqft.capital) - PropTech financing startup.
 
 
 ### Let's Connect!
