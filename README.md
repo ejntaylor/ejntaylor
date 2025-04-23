@@ -8,7 +8,7 @@
 
 ### 🛠️ Tech Stack
 
-- **Back-end**  Laravel · Python  
+- **Back-end**  PHP  · Laravel · WordPress · Python  
 - **Front-end**  Vue (VILT & TALL) · Inertia.js · Tailwind CSS  
 - **Cloud / DevOps**  AWS · GitOps · DevSecOps  
 - **Focus areas**  Cybersecurity · SaaS Architecture
