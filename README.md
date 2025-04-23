@@ -25,7 +25,7 @@ Pfizer – Platform Engineering / Application Security SaaS** (day job)
 [sqft.capital](https://sqft.capital) - PropTech financing startup.
 
 
-### Let's Connect!
+### 📬 Get in Touch
 I'm always interested in collaborating on innovative projects or discussing the latest in tech and cybersecurity. Feel free to reach out!
 
 | 🌐 Blog | <https://ejntaylor.com> |
